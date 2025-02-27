@@ -1,1 +1,1 @@
-![OceansDMB's github stats](https://github-readme-stats.vercel.app/api?username=OceansDMB&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OceansDMB&layout=compact&count_private=true)
+![OceansDMB's github stats](https://github-readme-stats.vercel.app/api?username=OceansDMB&include_all_commits=true&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OceansDMB&layout=compact&count_private=true)
