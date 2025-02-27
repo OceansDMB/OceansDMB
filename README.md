@@ -1,1 +1,2 @@
-![OceansDMB's github stats](https://github-readme-stats-git-master-oceansdmbs-projects.vercel.app/api?username=OceansDMB&include_all_commits=true&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats-five-blond-39.vercel.app/api?username=OceansDMB&include_all_commits=true&show_icons=true&theme=radical)
+![OceansDMB's github stats](https://github-readme-stats-git-master-oceansdmbs-projects.vercel.app/api?username=OceansDMB&include_all_commits=true&show_icons=true&theme=radical) 
+![Top Langs](github-readme-stats-git-master-oceansdmbs-projects.vercel.app/api/top-langs/?username=OceansDMB&include_all_commits=true&show_icons=true&theme=radical)
